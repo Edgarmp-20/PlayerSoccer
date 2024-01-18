@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "DM2EOAp63xPmhpgYb+wjDmbXiSTaau/RpMN+NqU9xy0=",
+  "Source": "PlayerSoccerWebAPI",
+  "BasePath": "_content/PlayerSoccerWebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

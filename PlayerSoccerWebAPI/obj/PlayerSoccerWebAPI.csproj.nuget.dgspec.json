@@ -1,0 +1,72 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Edmp\\.Net Core\\WEB API\\PlayerSoccerWebAPI\\PlayerSoccerWebAPI\\PlayerSoccerWebAPI.csproj": {}
+  },
+  "projects": {
+    "D:\\Edmp\\.Net Core\\WEB API\\PlayerSoccerWebAPI\\PlayerSoccerWebAPI\\PlayerSoccerWebAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Edmp\\.Net Core\\WEB API\\PlayerSoccerWebAPI\\PlayerSoccerWebAPI\\PlayerSoccerWebAPI.csproj",
+        "projectName": "PlayerSoccerWebAPI",
+        "projectPath": "D:\\Edmp\\.Net Core\\WEB API\\PlayerSoccerWebAPI\\PlayerSoccerWebAPI\\PlayerSoccerWebAPI.csproj",
+        "packagesPath": "C:\\Users\\A&E\\.nuget\\packages\\",
+        "outputPath": "D:\\Edmp\\.Net Core\\WEB API\\PlayerSoccerWebAPI\\PlayerSoccerWebAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\A&E\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
